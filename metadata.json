@@ -1,0 +1,7 @@
+{
+  "name": "StudySphere AI Helper",
+  "description": "An AI-powered helper to answer questions on various subjects. Users can ask questions via text or by uploading an image of their homework.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
